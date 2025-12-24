@@ -4,7 +4,7 @@
 
 typedef struct{
   char* ptr; //Ptr to string start.
-  int unsigned len; //STr length.
+  int unsigned len; //Str length.
 }StrPtrWLen; //Str metadata Struct.
 
 struct Address{
